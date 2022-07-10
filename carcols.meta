@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
    <Item>
-      <kitName>9845_rmodlego2_modkit</kitName>
-      <id value="9845" />	 	  
+      <kitName>9854_rmodlego1_modkit</kitName>
+      <id value="9854" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>
@@ -479,7 +479,7 @@
   </Kits>
   <Lights>
     <Item>
-      <id value="9845" />
+      <id value="9854" />
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
@@ -534,7 +534,7 @@
         <intensity value="5.000000" />
         <intensity_far value="1.000000" />
         <color value="0xFFFF0F05" />
-        <numCoronas value="1" />
+        <numCoronas value="0" />
         <distBetweenCoronas value="25" />
         <distBetweenCoronas_far value="49" />
         <xRotation value="0.270177" />
@@ -608,7 +608,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>rmodlego2</name>
+      <name>rmodlego1</name>
     </Item>
   </Lights>
 </CVehicleModelInfoVarGlobal>

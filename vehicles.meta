@@ -4,18 +4,18 @@
   <residentAnims />
   <InitDatas>
       <Item>
-      <modelName>rmodlego2</modelName>
-      <txdName>rmodlego2</txdName>
-      <handlingId>rmodlego2</handlingId>
-      <gameName>rmodlego2</gameName>
-      <vehicleMakeName>Ferrari</vehicleMakeName>
+      <modelName>rmodlego1</modelName>
+      <txdName>rmodlego1</txdName>
+      <handlingId>rmodlego1</handlingId>
+      <gameName>rmodlego1</gameName>
+      <vehicleMakeName>Bugatti</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
       <animConvRoofDictName>null</animConvRoofDictName>
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>tyrus</audioNameHash>
+      <audioNameHash>monster3</audioNameHash>
       <layout>LAYOUT_LOW_RESTRICTED</layout>
       <coverBoundOffsets>TURISMO2_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -118,7 +118,7 @@
   <txdRelationships>
     <Item>
 	  <parent>vehicles_race_generic</parent>
-      <child>rmodlego2</child>
+      <child>rmodlego1</child>
     </Item>
   </txdRelationships>
 

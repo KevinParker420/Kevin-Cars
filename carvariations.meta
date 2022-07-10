@@ -3,11 +3,11 @@
 <CVehicleModelInfoVariation>
   <variationData>
 	<Item>
-      <modelName>rmodlego2</modelName>
+      <modelName>rmodlego1</modelName>
       <colors>
         <Item>
           <indices content="char_array">
-            29
+            70
             1
             120
             156 
@@ -25,7 +25,7 @@
         </Item> 
       </colors>
       <kits>
-        <Item>9845_rmodlego2_modkit</Item>
+        <Item>9854_rmodlego1_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -36,7 +36,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="9845" />
+      <lightSettings value="9854" />
       <sirenSettings value="0" />
     </Item>
   </variationData>
